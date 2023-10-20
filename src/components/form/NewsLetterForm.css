@@ -1,0 +1,29 @@
+form {
+    display:inline-block;
+    margin: 1rem auto;
+}
+
+#email{
+    background-color:  #f4f4f4 ;
+    max-width: 18rem;
+    max-height: 3rem;
+    border: none;
+    border-radius: 0.5rem;
+    margin: 1rem  0.5rem ;
+}
+
+
+
+.cta{
+    display: flex;
+    width: 60%;
+}
+
+.cta> #checkbox{
+    cursor: pointer;
+}
+
+
+#checkbox{
+    height: 1.4rem;
+ }
