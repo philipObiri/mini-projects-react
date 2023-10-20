@@ -1,0 +1,35 @@
+.form-container{
+    background-color: #acc6f7;
+    border-radius: 2rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+    max-width:22rem;
+    margin: 0 auto;
+}
+
+.email-input{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+.error, .success{
+    
+    width: 60%;
+    padding: 0.7rem;
+    font-size: 0.75rem;
+    margin: 0.5rem auto;
+    border-radius: 2rem;
+    color:#1a1515;
+}
+
+.error{
+    background-color: #f55555a2;
+}
+
+.success{
+    background-color: #90f555a2;
+}
